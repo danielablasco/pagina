@@ -1,0 +1,35 @@
+.footer {
+    background: #f4c4f3;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #fc67fa, #f4c4f3);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #fc67fa, #f4c4f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    color: rgb(255, 254, 254);
+    padding: 10px;
+
+    
+  }
+  
+  .footer a {
+    color: rgb(255, 254, 254);
+    text-decoration: none;
+  
+    margin-left: 1000px;
+    margin-bottom: -300px;
+  }
+  
+  .footer a:hover {
+    color: black;
+  }
+  
+  .footer .scroll-to-top {
+    display: inline-block;
+    background-image: url('../../images/logoCherry.jpeg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    
+  }
+  
